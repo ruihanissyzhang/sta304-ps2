@@ -1,0 +1,5 @@
+knitr::opts_chunk$set(echo = TRUE)
+#install.packages("brms")
+#install.packages("tidyverse")
+library(brms)
+library(tidyverse)
